@@ -11,6 +11,7 @@
 - `politics`: Involves political references or figures.
 - `dark_humor`: Contains serious, disturbing or controversial subject matter used for comedic effect.
 - `animal`: Involves animals or references to animals.
+- `music`: Involves music or references to music.
 - `cultural`: References to aspects of Icelandic culture.
 - `situational`: Jokes that derive their humour from specific circumstances, events, or scenarios. They often rely on the situation's irony, absurdity, or unexpectedness to create a comedic effect.
 - `culturally_sensitive`: Contains elements that might be perceived as disrespectful or offensive in certain cultural contexts. These jokes are included for their historical or linguistic value, and their explicit labelling serves as a tool to help machine learning algorithms identify potentially problematic content.
