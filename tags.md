@@ -1,0 +1,15 @@
+# Tags
+- `family_friendly`: Suitable for audiences of all ages.
+- `adults_only`: Contains content that may be inappropriate for children.
+- `wordplay`: Includes puns or other types of wordplay.
+- `riddles`: Structured as a riddle.
+- `knock_knock`: Structured as a knock-knock joke.
+- `geography`: References specific locations or geographical features.
+  - `hfj_joke`: Jokes that refer to Hafnafjörður.
+- `history`: Involves historical references.
+- `science`: Themed around science or technology.
+- `politics`: Involves political references or figures.
+- `dark_humor`: Contains serious, disturbing or controversial subject matter, used for comedic effect.
+- `animal`: Involves animals or references to animals.
+- `cultural`: References to aspects of Icelandic culture.
+- `racist`: Contains elements that reflect racial stereotypes or prejudices that were prevalent at the time the joke was created. These jokes are included for the sake of historical or cultural context and in no way represent endorsement or advocacy of such views. Their explicit labeling serves as a tool to help machine learning algorithms identify and avoid perpetuating harmful stereotypes.
