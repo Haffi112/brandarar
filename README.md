@@ -12,7 +12,7 @@ Markmið safnsins er margþætt.
 # Skema
 Fyrir sérhvern brandara þarf eftirfarandi atriði
 - Brandarann
-- Heimild (ef hún er til staðar, hvar var brandarinn fundinn)
+- Heimild (ef hún er til staðar, hvar var brandarinn fundinn eða hver samdi hann?)
 - Tag sem gefur til kynna hvaða eiginleika brandarinn hefur. Markmiðið með þessum upplýsingum er að gera notendum kleift að sía burt brandara sem eru dónalegir eða finna t.d. brandara sem gætu sérstaklega höfðað til barna.
 
 # Viltu bæta við brandara?
@@ -38,7 +38,7 @@ This collection is accessible to everyone, and anyone can use it for entertainme
 For each joke, the following details are required:
 
 The joke itself
-Source (if available, where the joke was found)
+Source (if available, where the joke was found or who made it)
 A tag indicating the characteristics of the joke. This information allows users to filter out inappropriate jokes or to find, for example, jokes that could particularly appeal to children.
 
 # Do you want to add a joke?
