@@ -15,6 +15,7 @@
 - `elderly`: Jokes that involve older individuals or touch on themes related to aging.
 - `health`: Jokes that involve health-related topics or scenarios.
 - `cultural`: References to aspects of Icelandic culture.
+- `love`: Jokes that involve romantic relationships, love, or matters of the heart.
 - `situational`: Jokes that derive their humour from specific circumstances, events, or scenarios. They often rely on the situation's irony, absurdity, or unexpectedness to create a comedic effect.
 - `culturally_sensitive`: Contains elements that might be perceived as disrespectful or offensive in certain cultural contexts. These jokes are included for their historical or linguistic value, and their explicit labelling serves as a tool to help machine learning algorithms identify potentially problematic content.
 - `racist`: Contains elements reflecting racial stereotypes or prejudices prevalent when the joke was created. These jokes are included for historical or cultural context and do not represent endorsement or advocacy of such views. Their explicit labelling serves as a tool to help machine learning algorithms identify and avoid perpetuating harmful stereotypes.
